@@ -1,5 +1,7 @@
 # SUAY SEW SHOP - DIGITAL PROJECTS 👋
 
+The SUAYLA GitHub hosts a suite of digital products and tools that empower our mission to revolutionize the textile industry. These codebases are designed to streamline our operations, from inventory management and supply chain transparency to the development of custom software that aids in tracking our textile diversion efforts. By leveraging technology, we ensure that our commitment to sustainability and ethical practices is integrated into every aspect of our work, enabling us to scale our impact while maintaining the highest standards of craftsmanship and environmental responsibility.
+
 ## Overview
 
 SUAY is unwaveringly committed to creating a culture of community and reuse by investing in skilled laborers and creating a truly transparent textile recycling, reuse, and repair model that serves everyone.
